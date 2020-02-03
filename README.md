@@ -1,5 +1,5 @@
 # ZhiHuiShu2020New
-#备注：部分代码以及以下说明来自https://github.com/wangzexi
+### 备注：部分代码以及以下说明来自https://github.com/wangzexi
 
 智慧树网课辅助脚本，享受一口气看二十课的畅快体验。
 
