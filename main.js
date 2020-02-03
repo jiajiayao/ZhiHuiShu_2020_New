@@ -6,6 +6,7 @@
  */
 (function() {
 const sleep = (time) => new Promise((resolve) => setTimeout(resolve, time))
+$('.Patternbtn-div').click()
   const start = async function() {
     while (true) {
 	console.log('后台运行中')
