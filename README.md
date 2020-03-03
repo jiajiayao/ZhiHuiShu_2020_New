@@ -1,5 +1,6 @@
 # ZhiHuiShu2020New
-### 备注：部分代码以及以下说明来自https://github.com/wangzexi
+
+## 自动答题支持请点击这里 https://github.com/jiajiayao/ZhiHuiShu_Get_Answer_chrome_plugins
 
 智慧树网课辅助脚本，享受一口气看二十课的畅快体验。
 
@@ -37,3 +38,6 @@
 ## 协议
 
 MIT
+
+
+### 备注：部分代码以及以下说明来自https://github.com/wangzexi
