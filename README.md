@@ -1,5 +1,5 @@
 # ZhiHuiShu2020New
-
+# 欢迎star
 ## 自动答题插件请点击这里 https://github.com/jiajiayao/ZhiHuiShu_Get_Answer_chrome_plugins
 
 智慧树网课辅助脚本，享受一口气看二十课的畅快体验。
