@@ -9,7 +9,7 @@ const sleep = (time) => new Promise((resolve) => setTimeout(resolve, time))
   $('.Patternbtn-div').click()
 
   //设置时间30分钟
-  time = 10;
+  time = 30*60;
   const start = async function() {
     while (true) {
 	console.log('后台运行中')
@@ -30,7 +30,7 @@ const sleep = (time) => new Promise((resolve) => setTimeout(resolve, time))
       }  
       else {  
         //无习惯分数请注释这行代码
-        window.location.href = 'http://www.mahaixiang.cn/';
+        window.location.href = 'https://github.com/jiajiayao/ZhiHuiShu_2020_New/blob/master/notice.md';
       }  
       if ($('.volumeBox').find('.passVolume').height() != 0) {
         console.log('静音')
