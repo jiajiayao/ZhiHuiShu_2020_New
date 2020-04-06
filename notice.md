@@ -1,4 +1,4 @@
-# 欢迎star follow😀
+# 点个star再走呗😀
 # 已经学习30分钟自动退出👍
 # 如果无习惯分请把下面代码注释👨
 > window.location.href = 'https://github.com/jiajiayao/ZhiHuiShu_2020_New/blob/master/notice.md';
