@@ -28,7 +28,7 @@
 5. 按下 **ctrl+v** 贴入代码
 6. 按下 **回车**
 
-![img](img.png)
+<image src='https://s1.ax1x.com/2020/05/16/YcTrQg.md.png'>
 
 ### 注意
 
